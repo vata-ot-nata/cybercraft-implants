@@ -1,0 +1,4 @@
+name: Implants
+version: '${project.version}'
+main: cyberprank.implants.Implants
+api-version: 1.18
