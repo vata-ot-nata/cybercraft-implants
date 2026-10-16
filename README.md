@@ -23,7 +23,7 @@ There are four implants in total:
 ## Commands
 
 | Implant | Give command |
-|---------|-----------|
+|------|-----------|
 | `Sandevistian` | `/give @s minecraft:iron_chestplate[custom_name='{"text":"Sandevistian"}'] 1` |
 | `Sandevistian (Gradient)` | `/give @s minecraft:iron_chestplate[custom_name='{"text":"Sandevistian (Gradient)"}'] 1` |
 | `Leg Implant` | `/give @s minecraft:iron_leggings[custom_name='{"text":"Leg Implant"}'] 1` |
